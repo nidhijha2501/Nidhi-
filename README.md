@@ -10,7 +10,7 @@ Student of Galgotias University
 </head>
 <body>
   <div class="profile-card">
-    <img src="profile.jpg" alt="Profile Picture" class="profile-img">
+    <img src=" alt="Profile Picture" class="profile-img">
     <h2 class="profile-name">John Doe</h2>
     <p class="profile-bio">Web Developer | Tech Enthusiast</p>
     <button id="more-info-btn">More Info</button>
